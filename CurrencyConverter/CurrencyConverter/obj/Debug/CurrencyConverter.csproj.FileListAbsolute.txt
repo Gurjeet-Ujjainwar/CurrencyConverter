@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\C# projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\HP\Desktop\C# projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\HP\Desktop\C# projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\HP\Desktop\C# projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C# projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.CurrencyConvert.resources
+C:\Users\HP\Desktop\C# projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+C:\Users\HP\Desktop\C# projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C# projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C# projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\HP\Desktop\C# projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
